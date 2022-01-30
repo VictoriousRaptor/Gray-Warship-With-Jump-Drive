@@ -3,5 +3,6 @@ tags={
 	"Fixes"
 }
 name="Gray Warship With Jump Drive"
-supported_version="3.2.*"
 picture="thumbnail.png"
+supported_version="3.2.*"
+remote_file_id="2736965712"

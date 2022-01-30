@@ -8,7 +8,7 @@ This mod replaces vanilla Gray Warship's Lv. 1 Hyper Drive (ridiculous right?) w
     [*]Other components are upgraded to the highest level.
 [/list]
 
-[h2]Features[/h2]
+[h2]Usage[/h2]
 
 [b]MAYBE require a new save.[/b] If it doesn't work on your ongoing game, you can do some editing on your save to make it work.
 
