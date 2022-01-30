@@ -1,12 +1,16 @@
 [h2]功能[/h2]
 
-本mod替换掉了原版灰风离谱的一级超空间引擎，加上了跃迁引擎，以及如下的修改:
+本mod替换掉了原版灰风离谱的一级超空间引擎，换成了跃迁引擎，以及如下的修改:
 
 [list]
     [*]大型伽马激光替换为中子鱼雷
     [*]大型高斯炮替换为动能大炮
     [*]其余组件全部升至最高等级
-[/list] 
+[/list]
+
+[h2]使用方法[/h2]
+
+[b]可能需要开新档。[/b]如果在旧档上无效，可以修改存档使之生效。
 
 [h2]其他[/h2]
 
@@ -19,6 +23,6 @@
 
 [h3]GitHub Repository[/h3]
 
-[url=https://github.com/VictoriousRaptor/Locate-It-]https://github.com/VictoriousRaptor/Locate-It-[/url]
+[url=https://github.com/VictoriousRaptor/Gray-Warship-With-Jump-Drive]给灰风装上跃迁引擎[/url]
 
 [img]https://i.imgur.com/fVVaDCS.gif[/img]

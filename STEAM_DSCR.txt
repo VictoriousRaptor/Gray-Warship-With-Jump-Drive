@@ -6,7 +6,11 @@ This mod replaces vanilla Gray Warship's Lv. 1 Hyper Drive (ridiculous right?) w
     [*]2 Large Gamma Laser -> 2 Large Neutron Launchers
     [*]2 Large Gauss Cannon -> 2 Large Kinetic Artillery
     [*]Other components are upgraded to the highest level.
-[/list] 
+[/list]
+
+[h2]Features[/h2]
+
+[b]MAYBE require a new save.[/b] If it doesn't work on your ongoing game, you can do some editing on your save to make it work.
 
 [h2]Others[/h2]
 
@@ -19,6 +23,6 @@ This mod replaces vanilla Gray Warship's Lv. 1 Hyper Drive (ridiculous right?) w
 
 [h3]GitHub Repository[/h3]
 
-[url=https://github.com/VictoriousRaptor/Locate-It-]https://github.com/VictoriousRaptor/Locate-It-[/url]
+[url=https://github.com/VictoriousRaptor/Gray-Warship-With-Jump-Drive]Gray Warship With Jump Drive[/url]
 
 [img]https://i.imgur.com/fVVaDCS.gif[/img]
