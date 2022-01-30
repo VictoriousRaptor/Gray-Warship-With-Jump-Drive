@@ -1,0 +1,24 @@
+[h2]功能[/h2]
+
+本mod替换掉了原版灰风离谱的一级超空间引擎，加上了跃迁引擎，以及如下的修改:
+
+[list]
+    [*]大型伽马激光替换为中子鱼雷
+    [*]大型高斯炮替换为动能大炮
+    [*]其余组件全部升至最高等级
+[/list] 
+
+[h2]其他[/h2]
+
+[h3]我的其他Mod[/h3]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2733387271]No More Charging Battleships Or Titans[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2245491122]Locate It![/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2247594997]Societal Advancement (fixed)[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2254396324]Demilitarize (fixed)[/url]
+
+[h3]GitHub Repository[/h3]
+
+[url=https://github.com/VictoriousRaptor/Locate-It-]https://github.com/VictoriousRaptor/Locate-It-[/url]
+
+[img]https://i.imgur.com/fVVaDCS.gif[/img]

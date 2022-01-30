@@ -1,0 +1,24 @@
+[h2]Features[/h2]
+
+This mod replaces vanilla Gray Warship's Lv. 1 Hyper Drive (ridiculous right?) with a Jump Drive, along with some other tweaks:
+
+[list]
+    [*]2 Large Gamma Laser -> 2 Large Neutron Launchers
+    [*]2 Large Gauss Cannon -> 2 Large Kinetic Artillery
+    [*]Other components are upgraded to the highest level.
+[/list] 
+
+[h2]Others[/h2]
+
+[h3]My Other Mods[/h3]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2733387271]No More Charging Battleships Or Titans[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2245491122]Locate It![/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2247594997]Societal Advancement (fixed)[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2254396324]Demilitarize (fixed)[/url]
+
+[h3]GitHub Repository[/h3]
+
+[url=https://github.com/VictoriousRaptor/Locate-It-]https://github.com/VictoriousRaptor/Locate-It-[/url]
+
+[img]https://i.imgur.com/fVVaDCS.gif[/img]
