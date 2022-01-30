@@ -3,4 +3,5 @@ tags={
 	"Fixes"
 }
 name="Gray Warship With Jump Drive"
-supported_version="3.2.2"
+supported_version="3.2.*"
+picture="thumbnail.png"
