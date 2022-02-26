@@ -10,16 +10,18 @@ This mod replaces vanilla Gray Warship's Lv. 1 Hyper Drive (ridiculous right?) w
 
 [h2]Usage[/h2]
 
-[b]MAYBE require a new save.[/b] If it doesn't work on your ongoing game, you can do some editing on your save to make it work.
+[b]MAYBE require a new save.[/b] If it doesn't work on your ongoing game, you can do some editing on your save to make it work. Compatible with 3.3.*.
 
 [h2]Others[/h2]
 
 [h3]My Other Mods[/h3]
 
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2742120496]Auto & Permanent Planetary Decisions[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2733387271]No More Charging Battleships Or Titans[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2245491122]Locate It![/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2247594997]Societal Advancement (fixed)[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2254396324]Demilitarize (fixed)[/url]
+
 
 [h3]GitHub Repository[/h3]
 

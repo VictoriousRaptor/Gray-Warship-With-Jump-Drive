@@ -10,12 +10,13 @@
 
 [h2]使用方法[/h2]
 
-[b]可能需要开新档。[/b]如果在旧档上无效，可以修改存档使之生效。
+[b]可能需要开新档。[/b]如果在旧档上无效，可以修改存档使之生效。兼容3.3.*。
 
 [h2]其他[/h2]
 
 [h3]我的其他Mod[/h3]
 
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2742120496]Auto & Permanent Planetary Decisions 自动无限期大撒币[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2733387271]No More Charging Battleships Or Titans 不再冲锋的战列和泰坦[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2245491122]Locate It!（战略资源与巨构定位器）[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2247594997]Societal Advancement (fixed)[/url]
